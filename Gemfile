@@ -14,7 +14,7 @@ group :test do
   gem 'rspec-rails', '~> 4.0.0'
 end
 
-gem 'nokogiri', '~> 1.10', '>= 1.10.9'
+gem 'nokogiri', '~> 1.12'
 gem 'selenium-webdriver', '~> 3.142', '>= 3.142.7'
 gem 'capybara'
 
